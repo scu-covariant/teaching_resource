@@ -1,7 +1,6 @@
 #pragma once
 #include <stdexcept>
 #include <typeinfo>
-#include <string>
 class value_base {
 public:
 	value_base() = default;
